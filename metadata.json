@@ -1,0 +1,8 @@
+{
+  "name": "Bíblia de Estudo Digital",
+  "description": "Uma plataforma elegante e moderna para organizar lições bíblicas, integrando estudos sistemáticos com assistência inteligente de IA para aprofundamento teológico.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
